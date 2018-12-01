@@ -108,7 +108,7 @@ void printProgram(string program)
   }
  else{
  	cout << "INVALID COMMAND : " << SS[SS.size()-1] << "<br \>" << endl;
-	cout << "COMMANDS VALID are: INORDER, PREORDER, POSTORDER " << "<br \>" << endl; 
+	cout << "COMMANDS VALID are: INORDER, PREORDER, POSTORDER 123" << "<br \>" << endl;
  }
 
 }
